@@ -1,0 +1,41 @@
+{% assign projects = site.data.data.projects %}
+{% if projects %}
+<section class="section projects-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-project-diagram fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ projects.title }}
+  </h2>
+
+  {% if projects.intro %}
+  <div class="intro">
+      <p>{{ projects.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for project in projects.projects %}
+    <div class="item">
+
+      <div><h2><span class="project-title">
+        <a href="{{ project.link }}">{{ project.title }}</a>
+      </span></h2></div>
+
+      {% if project.image %}
+      <div><img src="{{ project.image }}" width="400"/></div>
+      <div><a href="{{ project.link }}">Website: {{ project.link }}</a></div>
+      <div class="publication-conference">{{ project.publication }}<a href="{{ project.pb_link }}" style="color:blue"> [link]</a></div>
+      {% endif %}
+
+      {% if project.tagline %}
+      - <span class="project-tagline">{{ project.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+
+</section><!--//section-->
+{% endif %}

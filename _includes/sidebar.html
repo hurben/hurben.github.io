@@ -1,0 +1,50 @@
+{% assign sidebar = site.data.data.sidebar %}
+<div class="sidebar-wrapper">
+
+  <div class="profile-container">
+
+    {% if sidebar.name %}
+    <a href="https://inukj.github.io"><img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" /></a>
+    {% endif %}
+
+    {% if sidebar.name %}
+    <a href="https://inukj.github.io"><h1 class="name">{{ sidebar.name }}</h1></a>
+    {% endif %}
+
+    {% if sidebar.tagline %}
+    <h3 class="tagline">{{ sidebar.tagline }}</h3>
+    {% endif %}
+
+  </div><!--//profile-container-->
+
+  {% include contact.html %}
+
+  <hr>
+  <div class="contact-container container-block">
+    <ul class="list-unstyled contact-list">
+ 
+   <!--    <h5><li class="projects"><i class="fas fa-angle-right"></i>
+        <a href="projects_main.html">Projects</a>
+      </li></h5> -->
+      <h5>
+        <li class="profile"><i class="fas fa-angle-right"></i>
+        <a href="index.html">Profile</a>
+        </li>
+      </h5>
+
+      <h5>
+        <li class="book-patents"><i class="fas fa-angle-right"></i>
+        <a href="books_patents_main.html">Books & Patents</a>
+        </li>
+      </h5>
+
+      <h5>
+        <li class="cv"><i class="fas fa-angle-right"></i>
+        <a href="assets/data/inukjung_cv.pdf" target="_blank">CV (pdf)</a>
+        </li>
+      </h5>
+
+    </ul>
+  </div>
+
+</div><!--//sidebar-wrapper-->
