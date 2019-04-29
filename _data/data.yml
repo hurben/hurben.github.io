@@ -35,7 +35,7 @@ career-profile:
 education:
     - degree: Ph.D. in Bioinformatics
       university: Life Science department, Seoul National University, Seoul, Republic of Korea
-      time: 2012 - 2017
+      time: 2012 - 2019
       details: |
         Thesis: "Informatics systems for analyzing and comparing biological experiments using network-based gene prioritization"
         
@@ -46,83 +46,18 @@ education:
           - Big data mining
           - Web tool development
 
-    - degree: MSc in Computer Science
-      university: Computer Science department, Yonsei University, Seoul, Republic of Korea
-      time: 2005 - 2007
+    - degree: BS in Mechanical Engineering
+      university: Hongik University, Seoul, Republic of Korea
+      time: 2007 - 2012
       details: |
-        Thesis: "RMon: A Proactive Sensor Network Management Framework for the RETOS Applications"
-        
-        Advisor: Hojung Cha
-
-        Main research areas:
-          - Embedded systems and operating systems for sensor networks
-          - Sensor network monitoring algorithms and tools
-
-    - degree: BSc in Computer Science
-      university: University of Canterbury, Christchurch, New Zealand
-      time: 2001 - 2004
-      details: |
-        Received Bachelor of Science and Post Graduate Diploma in Computer Science at the Computer Science department.
-
-awards:
-    - title: Excellent Dissertation Award
-      organization: Life Science department, Seoul National University
-      time: Aug. 2017
-      details: |
-        Thesis title: "Clustering methods and approaches for the integrated analysis of protein coding and non-coding transcripts"
-
-    - title: Outstanding Paper Award
-      organization: 한국생명정보학회, Korean Society of Bioinformatics (KSBi)
-      time: Nov. 2017
-      details: |
-        Paper title: "TimesVector: a vectorized clustering approach to the analysis of time series transcriptome data from multiple phenotypes."
-
-    - title: Participation Award
-      organization: IEEE
-      time: Oct. 2012
-      details: |
-        Award title: Participation Award for taking role in the publication of IEEE Std 802.16p-2012 and 802.16.1b-2012
-
+        .
 
 experiences:
-    - role: Part time Lecturer
-      time: 2018 - Present
-      company: "Bioinformatics, Life Science Department, Seoul National University"
+    - role: Intern 
+      time: 2010 - 211
+      company: "Biochemister-Molecular biology Lab, Yonsei National University"
       details: |
-        I'm lecturing the "Bioinformatics 2" course that covers basic to advanced techniques in bioinformatics.
-
-    - role: Postdocotral Research Fellow
-      time: 2017 - Present
-      company: "Bioinformatics Institute and Bio & Health Informatics Lab."
-      details: |
-        As a research fellow with a personal grant, my research focuses on data mining large scale next generation sequencing data.
-
-        Main research topics are:
-          - Large scale multi-omics data integration and analysis of breast cancer data
-          - CRISPR-CAS9 data analysis
-          - Time-series data analysis
-
-    - role: Assistant Research Engineer
-      time: 2007 - 2011
-      company: "LG Electronics, Radio Protocol Standard team"
-      details: |
-        Research Engineer at LG Electronics, Anyang, Korea
-          - Research and development of cellular technologies for standard bodies for WiMAX 2.0 (i.e. IEEE802.16m) and LTE Rel. 10. The standard technologies that I’ve developed are in the domains of Layer 1 and 2 (PHY/MAC). Main research and development topics are mobility management and security provision. 
-          - Acted as rapporteur lead for the IEEE802.16 TGm (http://www.ieee802.org/16/tgm/) Handover RG (Rapporteur Group), 2008-2009
-          - Acted as chair for the IEEE802.16 TGm Handover Ad-hoc group, 2009-2010
-          - Acted as chair for the WiMAX 2.0 TWG Handover/Security Ad-hoc group for profiling standard technologies, 2010–2011
-          - Acted as chair and editor for IEEE802.16 PPC (Project Planning Committee, http://wirelessman.org/ppc/index.html) on Hierarchical Networks, 2010–2011
-
-projects:
-    title: Projects
-    intro: >
-
-    projects:
-      - title: TimesVector
-        image: "assets/images/project_timesvector.png"
-        publication: "Bioinformatics, 33(23), 2017"
-        pb_link: "https://academic.oup.com/bioinformatics/article/33/23/3827/2918135"
-        tagline: "TimesVector is a triclustering tool for clustering time-series data that comprises multiple conditions, or phenotypes. It identifies gene clusters that exhibit distinctly similar or different gene expression patterns among the comparing sample conditions. For example, for a time-series data set of five different strains of yeast, each data sampled at 3 time points, TimesVector will search for gene clusters where a specific strain shows a distinctively different gene expression pattern from the others."
+        Learn.
 
 
 publications:
