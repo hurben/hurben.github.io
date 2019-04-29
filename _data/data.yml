@@ -30,7 +30,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      I'm currently a postdoctoral Research Fellow at Seoul National Univerisity and affiliated with <a href="https://bhi-kimlab.github.io/" style="color:blue" target="_blank">Bio & Health Informatics Lab</a> and <a href="http://nbiosnu.org/" style="color:blue" target="_blank">Bioinformatics Institute</a>. I received a Ph.D. degree in Bioinformatics at the Life Science department in 2017. My research area focuses on developing machine learning algorithms and tools for analyzing high throughput next generation sequencing data from various organisms, such as, rice, ginseng, chicken, mouse and human.
+      Hello! I am Benjamin Hur. PhD in bioinformatics. I am trained to prioritize genes by handling multiple heterogeneous data at once. Confident with mouse data (microarray, RNAseq, DNAseq) as well as and making online, offline anaylsis, pipeline tools for other researchers. Experienced with network propagation (Random Walk with Restart), basic machine learning.
 
 education:
     - degree: Ph.D. in Bioinformatics
