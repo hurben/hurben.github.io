@@ -7,18 +7,18 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Benjamin Hur
+    name: Inuk Jung
     tagline: "Bioinformatician, Ph.D."
-    avatar: hurben_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: inukj_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     affiliation_1: "Bio & Health Informatics Lab"
     affiliation_2: "Bioinformatics Institute"
     address: "Seoul National University, 1, Gwanak-ro, Gwanak-gu, Seoul, Korea Building 220, Room 651"
-    email: "hurben.bioinfo[at]gmail.com"
-    phone: +82-10-7206-991
-    website: ec2-13-124-75-142.ap-northeast-2.compute.amazonaws.com:8080 #do not add http://
-    github: hurben
+    email: "inukjung[at]snu.ac.kr"
+    phone: +82-2-880-2860
+    website: inukj.github.io #do not add http://
+    github: inukj
     gitlab: bhi-kimlab.github.io
     #linkedin: alandoe
     #bitbucket:
@@ -30,21 +30,21 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-    Hello! I am Benjamin Hur. PhD in bioinformatics.
+      I'm currently a postdoctoral Research Fellow at Seoul National Univerisity and affiliated with <a href="https://bhi-kimlab.github.io/" style="color:blue" target="_blank">Bio & Health Informatics Lab</a> and <a href="http://nbiosnu.org/" style="color:blue" target="_blank">Bioinformatics Institute</a>. I received a Ph.D. degree in Bioinformatics at the Life Science department in 2017. My research area focuses on developing machine learning algorithms and tools for analyzing high throughput next generation sequencing data from various organisms, such as, rice, ginseng, chicken, mouse and human.
 
 education:
     - degree: Ph.D. in Bioinformatics
       university: Life Science department, Seoul National University, Seoul, Republic of Korea
-      time: 2012 - 2019
+      time: 2012 - 2017
       details: |
         Thesis: "Clustering methods and approaches for the integrated analysis of protein coding and non-coding transcripts"
         
         Advisor: Sun Kim
 
         Main research areas:
-          - Gene prioritization.
-          - Data mining
-          - Web tool development
+          - Machine learning
+          - Big data mining
+          - Computational interpretation of biological data
 
     - degree: MSc in Computer Science
       university: Computer Science department, Yonsei University, Seoul, Republic of Korea
