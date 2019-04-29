@@ -37,14 +37,14 @@ education:
       university: Life Science department, Seoul National University, Seoul, Republic of Korea
       time: 2012 - 2017
       details: |
-        Thesis: "Clustering methods and approaches for the integrated analysis of protein coding and non-coding transcripts"
+        Thesis: "Informatics systems for analyzing and comparing biological experiments using network-based gene prioritization"
         
         Advisor: Sun Kim
 
         Main research areas:
-          - Machine learning
+          - Gene Prioritization
           - Big data mining
-          - Computational interpretation of biological data
+          - Web tool development
 
     - degree: MSc in Computer Science
       university: Computer Science department, Yonsei University, Seoul, Republic of Korea
