@@ -16,7 +16,7 @@ sidebar:
     affiliation_2: "Bioinformatics Institute"
     address: "Seoul National University, 1, Gwanak-ro, Gwanak-gu, Seoul, Korea Building 220, Room 651"
     email: "hurben.bioinfo[at]gmail.com"
-    phone: +82-2-880-2860
+    phone: +82-10-7206-9981
     website: hurben.github.io #do not add http://
     github: hurben
     gitlab: bhi-kimlab.github.io
@@ -74,6 +74,11 @@ publications:
     papers:
       - title: "Venn-diaNet : Venn diagram based network propagation analysis framework for comparing multiple biological experiments"
         authors: "Benjamin Hur, Dongwon Kang, Sangseon Lee, Ji Hwan Moon, Gung Lee, and Sun Kim"
+        conference: "Under Review"
+        #link: ""
+
+      - title: "A Machine Learning Approach to Identify Differentially Expressed Genes Using Network Property and Network Propagation."
+        authors: "Moon J. H., Lee S., Hur B., and Kim S."
         conference: "Under Review"
         #link: ""
 
