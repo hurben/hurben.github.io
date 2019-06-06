@@ -57,19 +57,16 @@ experiences:
       time: 2010 - 2011
       company: "Biochemister-Molecular biology Lab, Yonsei National University"
       details: |
-        Learn.
 
     - role: Auditory student 
       time: 2009 - 2010
       company: "Indiana University"
       details: |
-        Learn.
 
 
 publications:
     title: Publications
     intro: |
-      Publications listed in chronological order
 
     papers:
       - title: "Venn-diaNet : Venn diagram based network propagation analysis framework for comparing multiple biological experiments"
