@@ -57,26 +57,26 @@ experiences:
       time: Since 2017
       company: "Seoul National University, Lab of Adipocyte and Metabolism Research (PI: Prof. Jaebum Kim)."
       details: |
-      A web-based analysis tool to prioritize genes by integrating Venn diagram and network propagation method. This project began to address the needs of a new tool. Currently in review.
+       A web-based analysis tool to prioritize genes by integrating Venn diagram and network propagation method. This project began to address the needs of a new tool. Currently in review.
 
     - role: Srebf1 KO mouse, Adipocyte study
       time: Since 2016
       company: "Seoul National University, Lab of Adipocyte and Metabolism Research (PI: Prof. Jaebum Kim)."
       details: |
-     A study to find the relationship between Srebf1 KO effect and the senescence of adipocyte cells. My task is to find candidate genes from a RNA-seq data that have multiple controls and treatments.
+  #   A study to find the relationship between Srebf1 KO effect and the senescence of adipocyte cells. My task is to find candidate genes from a RNA-seq data that have multiple controls and treatments.
 
 
     - role: Kaiso KO mouse, Spermatogenesis study
       time: Since 2016
       company: "Yonsei University, Biochemistry-Molecular Biology Lab (PI: Man-wook Hur)"
       details: |
-      A study of how the KAISO (ZBTB33) KO affect spermatogenesis in mice. My role is to hunt down the candidate genes by investigating the expression alterations and the epigenetic events using RNA-seq and MBD-seq data. Collaborating with Dong-In Koh. Currently in review.
+   #   A study of how the KAISO (ZBTB33) KO affect spermatogenesis in mice. My role is to hunt down the candidate genes by investigating the expression alterations and the epigenetic events using RNA-seq and MBD-seq data. Collaborating with Dong-In Koh. Currently in review.
 
     - role: Human breast cancer study using RNA-seq and Exome-seq
       time: 2014 - 2016
       company: "Prof. Wonshik Han (Seoul National University Hospital)."
       details: |
-     A study comparing TCGA and Korean breast cancer samples. My role was to discover genes that have Korean specific somatic mutation. During the project, I participated in several sub-projects to analyze human breast cancer with RNA-seq data.
+#     A study comparing TCGA and Korean breast cancer samples. My role was to discover genes that have Korean specific somatic mutation. During the project, I participated in several sub-projects to analyze human breast cancer with RNA-seq data.
 
     - role: Intern 
       time: 2010 - 2011
