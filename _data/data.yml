@@ -30,7 +30,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Hello! I am Benjamin Hur. PhD in bioinformatics. I am trained to prioritize genes by handling multiple heterogeneous data at once. Confident with mouse data (microarray, RNAseq, DNAseq) as well as and making online, offline anaylsis, pipeline tools for other researchers. Experienced with network propagation (Random Walk with Restart), basic machine learning.
+      Hello! I am Benjamin Hur. PhD in bioinformatics. I am trained to prioritize genes by handling multiple heterogeneous data at once. I have analyzed various raw data (200+ RNA-seq, 120+ WES-seq, 4+ MBD-seq, 20+ microarray) as well as and developing online, offline pipelines for my collaborators. Experienced with network propagation (Random Walk with Restart), machine learning (Random Forest, SVM, Clustering), and other bioinformatics approaches.
 
 education:
     - degree: Ph.D. in Bioinformatics
