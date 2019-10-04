@@ -33,7 +33,7 @@ career-profile:
 
 education:
     - degree: Ph.D. in Bioinformatics
-      university: Interdisciplinary in Bioinformatics, Seoul National University, Seoul, Republic of Korea
+      university: Interdisciplinary in Bioinformatics, Seoul National University, Republic of Korea
       time: 2012 - 2019
       details: |
         Thesis: "Informatics systems for analyzing and comparing biological experiments using network-based gene prioritization"
@@ -46,7 +46,7 @@ education:
           - Web tool development
 
     - degree: BS in Mechanical Engineering
-      university: Hongik University, Seoul, Republic of Korea
+      university: Hongik University, Republic of Korea
       time: 2007 - 2012
       details: |
         .
@@ -76,11 +76,6 @@ experiences:
       company: "Collaborating with Prof. Wonshik Han (Seoul National University Hospital)."
       details: |
        A study comparing TCGA and Korean breast cancer samples. My role was to discover genes that have Korean specific mutations. During the project, I participated in several sub-projects to analyze human breast cancer with RNA-seq data.
-
-    - role: Intern 
-      time: 2011 - 2012
-      company: "Department of Biochemister-Molecular biology Lab, Yonsei National University"
-      details: |
 
     - role: Auditory student 
       time: 2010 - 2011
