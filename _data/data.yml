@@ -56,7 +56,7 @@ experiences:
       time: Since 2017
       company: "Collaborating with Lab of Adipocyte and Metabolism Research (PI: Prof. Jaebum Kim)."
       details: |
-       A web-based analysis tool to prioritize genes by integrating Venn diagram and network propagation method. This project began to address the needs of a new tool. (GIW2019 Accepted) BMC Bioinformatics.
+       A web-based analysis tool to prioritize genes by integrating Venn diagram and network propagation method. This project began to address the needs of a new tool.
 
     - role: Srebf1 KO mouse, Adipocyte study
       time: Since 2016
@@ -90,7 +90,7 @@ publications:
     papers:
       - title: "Venn-diaNet : Venn diagram based network propagation analysis framework for comparing multiple biological experiments"
         authors: "Benjamin Hur, Dongwon Kang, Sangseon Lee, Ji Hwan Moon, Gung Lee, and Sun Kim"
-        conference: "Under Review"
+        conference: "(GIW2019 Accepted) BMC Bioinformatics"
         #link: ""
 
       - title: "A Machine Learning Approach to Identify Differentially Expressed Genes Using Network Property and Network Propagation."
