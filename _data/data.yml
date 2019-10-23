@@ -53,7 +53,7 @@ education:
 
 experiences:
     - role: Integration of Venn diagram and Network analysis
-      time: Since 2017
+      time: 2017 - 2019
       company: "Collaborating with Lab of Adipocyte and Metabolism Research (PI: Prof. Jaebum Kim)."
       details: |
        A web-based analysis tool to prioritize genes by integrating Venn diagram and network propagation method. This project began to address the needs of a new tool.
