@@ -12,11 +12,11 @@ sidebar:
     avatar: hurben_profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    affiliation_1: "Bio & Health Informatics Lab"
-    affiliation_2: "Bioinformatics Institute"
-    address: "Seoul National University, 1, Gwanak-ro, Gwanak-gu, Seoul, Korea Building 220, Room 651"
-    email: "hurben.bioinfo[at]gmail.com"
-    phone: +82-10-7206-9981
+    affiliation_1: Mayo Clinic
+    affiliation_2: Dept. Surgery, Microbiome Program.
+    address: "Rochester, MN"
+    email: "hur.benjamin[at]mayo.edu"
+    phone: +507-923-9290
     website: hurben.github.io #do not add http://
     github: hurben
     linkedin: hurben-bioinfo
@@ -25,18 +25,16 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
 
-
 career-profile:
-    title: Profile
+    title: Research Fellow at Mayo Clinic
     summary: |
-      Hello! I am Benjamin Hur. PhD in bioinformatics. I am trained to prioritize genes by handling multiple heterogeneous data at once. I have analyzed various raw data (200+ RNA-seq, 120+ WES-seq, 4+ MBD-seq, 20+ microarray) as well as and developing online, offline pipelines for my collaborators. Experienced with network propagation (Random Walk with Restart), machine learning (Random Forest, SVM, Clustering), and other bioinformatics approaches.
+      Hello! I am Benjamin Hur. PhD in bioinformatics. I am trained to prioritize genes by handling multiple heterogeneous data at once. I have analyzed various raw data (200+ RNA-seq, 120+ WES-seq, 4+ MBD-seq, 20+ microarray) as well as and developing online, offline pipelines for my collaborators. Experienced with network propagation (Random Walk with Restart), machine learning (Classification, Clustering), and other bioinformatics approaches.
 
 education:
     - degree: Ph.D. in Bioinformatics
       university: Interdisciplinary in Bioinformatics, Seoul National University, Republic of Korea
       time: 2012 - 2019
       details: |
-        Thesis: "Informatics systems for analyzing and comparing biological experiments using network-based gene prioritization"
         
         Advisor: Sun Kim
 
@@ -44,6 +42,12 @@ education:
           - Gene Prioritization
           - Data mining
           - Web tool development
+
+		Focused Data Types:
+		  - RNA-seq
+		  - WES
+		  - Microarray
+		  - MBD-seq
 
     - degree: BS in Mechanical Engineering
       university: Hongik University, Republic of Korea
