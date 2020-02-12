@@ -43,11 +43,11 @@ education:
           - Data mining
           - Web tool development
 
-		Focused Data Types:
-		  - RNA-seq
-		  - WES
-		  - Microarray
-		  - MBD-seq
+        Focused Data Types:
+          - RNA-seq
+          - WES
+          - Microarray
+          - MBD-seq
 
     - degree: BS in Mechanical Engineering
       university: Hongik University, Republic of Korea
