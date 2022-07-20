@@ -42,8 +42,6 @@ education:
       details: |
 
 experiences:
-
-
     - role: Integrative Multi-omic Phenotyping in Blood Identifies Molecular Signatures and Candidate Biomarkers of ACPA-negative Rheumatoid Arthritis
       time: 2022
       company: "Biomedical Engineering Society 2022: Oral presentation [scheduled]"
@@ -73,11 +71,7 @@ experiences:
       time: 2021
       company: "Chungbuk National University: Seminar at Dr. Jo Lab"
       details: | AUGUST 17 (Virtual)
-      
-
-
-
-
+    
 publications:
     title: Recent Publications
     intro: |
