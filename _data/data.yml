@@ -35,51 +35,47 @@ education:
       university: Interdisciplinary in Bioinformatics, Seoul National University, Republic of Korea
       time: 2012 - 2019
       details: |
-        .
 
     - degree: BS in Mechanical Engineering
       university: Hongik University, Republic of Korea
       time: 2007 - 2012
       details: |
-        .
 
 experiences:
 
-    - role: Multi-omics analysis in RA multi-omics
-      time: Since 2021
-      company: "COMPUTATIONAL PRECISION MEDICINE RESEARCH GROUP (Dr. Sungs Lab), Mayo Clinic"
-      details: |
-       .
 
-    - role: Integration of Venn diagram and Network analysis
-      time: 2017 - 2019
-      company: "Collaborating with Lab of Adipocyte and Metabolism Research (PI: Prof. Jaebum Kim)."
-      details: |
-       A web-based analysis tool to prioritize genes by integrating Venn diagram and network propagation method. This project began to address the needs of a new tool.
+    - role: Integrative Multi-omic Phenotyping in Blood Identifies Molecular Signatures and Candidate Biomarkers of ACPA-negative Rheumatoid Arthritis
+      time: 2022
+      company: "Biomedical Engineering Society 2022: Oral presentation [scheduled]"
+      details: | OCTOBER 12-15, SAN ANTONIO, TX
+      
+    - role: Global Transcriptomic Profiling Identifies Differential Gene Expression Signatures Between Inflammatory and Non-inflammatory Aortic Aneurysms
+      time: 2022
+      company: "Mayo Clinic Young Investigators Research Symposium: Oral presentation"
+      details: | MAY 21 (Virtual)
+      
+    - role: Global Transcriptomic Profiling Identifies Differential Gene Expression Signatures Between Inflammatory and Non-inflammatory Aortic Aneurysms
+      time: 2022
+      company: "International Vasculitis and ANCA workshop: Poster Presentation"
+      details: | APRIL 3–6 (Virtual)
+      
+    - role: Global Transcriptomic Profiling Identifies Differential Gene Expression Signatures Between Inflammatory and Non-inflammatory Aortic Aneurysms
+      time: 2021
+      company: "American College of Rheumatology Convergence 2021: Oral presentation"
+      details: | NOVEMBER 6 (Virtual)
 
-    - role: Srebf1 KO mouse, Adipocyte study
-      time: 2016
-      company: "Collaborating with Lab of Adipocyte and Metabolism Research (PI: Prof. Jaebum Kim)."
-      details: |
-       A study to find the relationship between Srebf1 KO effect and the senescence of adipocyte cells. My task is to find candidate genes from a RNA-seq data that have multiple controls and treatments.
+    - role: Plasma Metabolomic Features Predictive of Disease Activity in Patients with Rheumatoid Arthritis
+      time: 2021
+      company: "Biomedical Engineering Society 2021: Oral presentation"
+      details: | OCTOBER 6–9, Orlando, FL
+      
+    - role: Bioinformatics at Clinic
+      time: 2021
+      company: "Chungbuk National University: Seminar at Dr. Jo Lab"
+      details: | AUGUST 17 (Virtual)
+      
 
 
-    - role: Kaiso KO mouse, Spermatogenesis study
-      time: Since 2016
-      company: "Collaborating with Yonsei University, Department of Biochemistry-Molecular Biology (PI: Man-wook Hur)"
-      details: |
-       A study of how the KAISO (ZBTB33) KO affect spermatogenesis in mice. My role is to hunt down the candidate genes by investigating the expression alterations and the epigenetic events using RNA-seq and MBD-seq data. Collaborating with Dong-In Koh. Currently in review.
-
-    - role: Human breast cancer study using RNA-seq and Exome-seq
-      time: 2014 - 2016
-      company: "Collaborating with Prof. Wonshik Han (Seoul National University Hospital)."
-      details: |
-       A study comparing TCGA and Korean breast cancer samples. My role was to discover genes that have Korean specific mutations. During the project, I participated in several sub-projects to analyze human breast cancer with RNA-seq data.
-
-    - role: Auditory student 
-      time: 2010 - 2011
-      company: "Indiana University"
-      details: |
 
 
 publications:
