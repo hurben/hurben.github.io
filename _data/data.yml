@@ -35,19 +35,7 @@ education:
       university: Interdisciplinary in Bioinformatics, Seoul National University, Republic of Korea
       time: 2012 - 2019
       details: |
-        
-        Advisor: Sun Kim
-
-        Main research areas:
-          - Gene Prioritization
-          - Data mining
-          - Web tool development
-
-        Focused Data Types:
-          - RNA-seq
-          - WES
-          - Microarray
-          - MBD-seq
+        .
 
     - degree: BS in Mechanical Engineering
       university: Hongik University, Republic of Korea
@@ -102,6 +90,11 @@ publications:
       - title: "Global Transcriptomic Profiling Identifies Differential Gene Expression Signatures between Inflammatory and Non‐inflammatory Aortic Aneurysms"
         authors: "Benjamin Hur, Matthew J Koster, Jin Sung Jang, Cornelia M Weyand, Kenneth J Warrington, Jaeyun Sung"
         conference: "Arthritis & Rheumatology"
+        #link: ""
+        
+      - title: "Adenosine A2A receptor blockade prevents cisplatin-induced impairments in neurogenesis and cognitive function"
+        authors: "Alfredo Oliveros, Ki Hyun Yoo, Mohammad Abdur Rashid, Ana Corujo-Ramirez, Benjamin Hur, Jaeyun Sung, Yuanhang Liu, John R Hawse, Doo-Sup Choi, Detlev Boison, Mi-Hyeon Jang"
+        conference: "Proceedings of the National Academy of Sciences "
         #link: ""
         
       - title: "Gut microbial determinants of clinically important improvement in patients with rheumatoid arthritis"
