@@ -13,10 +13,10 @@ sidebar:
 
     # Sidebar links
     affiliation_1: Mayo Clinic
-    affiliation_2: Dept. Surgery, Microbiome Program.
-    address: "Rochester, MN"
+    affiliation_2: Dept. Surgery, Microbiome Program
+    address: "Rochester, MN, USA"
     email: "hur.benjamin[at]mayo.edu"
-    phone: +507-923-9290
+    phone: +1-507-923-9290
     website: hurben.github.io #do not add http://
     github: hurben
     linkedin: hurben-bioinfo
