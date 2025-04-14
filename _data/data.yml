@@ -26,9 +26,9 @@ sidebar:
     #codewars:
 
 career-profile:
-    title: Research Fellow at Mayo Clinic
+    title: Research associate at Mayo Clinic
     summary: |
-      I am interested in understanding autoimmune diseases (e.g., rheumatoid arthritis, vasculitis) from large-scale omics datasets and clinical data; and designing applications from such data for unmet clinical needs. To reach my goal, I am utilizing network-based methodologies and developing new in silico tools. Currently, I am working on a project involving a comprehensive multi-omics analysis aiming to understand the differences between different RA subtypes (i.e., ACPA-positive, ACPA-negative) and to identify diagnostic biomarkers for ACPA-negative RA patients.
+	I am a bioinformatics/research scientist focused on transforming large-scale omics and clinical data into actionable insights for autoimmune diseases, including rheumatoid arthritis and vasculitis. I have hands-on experience analyzing and integrating diverse data types—including next generation sequencing (genomics, trasncriptomics), mass spectometry (proteomics, metabolomics), CyTOF (single cell immune profiling), and longitudinal clinical data—tailored to complex immunological diseases. My expertise includes network-based modeling, biomarker discovery, and the development of scalable in silico tools to support precision diagnostics. My recent work involves (1) developing blood-based disease activity metrics in RA, (2) uncover potential diagnostic biomarkers for ACPA-negative RA, and (3) developing protein biomarkers for treatment response to methotrexate in RA.
 
 education:
     - degree: Ph.D. in Bioinformatics
