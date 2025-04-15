@@ -111,31 +111,31 @@ publications:
     intro: |
 
     papers:
-	  - title: "Integrative multi-omics phenotyping in blood reveals biomolecular signatures predictive of ACPA-negative rheumatoid arthritis"
+      - title: "Integrative multi-omics phenotyping in blood reveals biomolecular signatures predictive of ACPA-negative rheumatoid arthritis"
         authors: "Benjamin Hur, Vinod K Gupta, Minsik Oh, Hu Zeng, Cynthia S Crowson, Kenneth J Warrington, Elena Myasoedova, Vanessa L Kronzer, John M Davis III, and Jaeyun Sung"
         conference: "RMD open, In Revision"
 
-	  - title: "Delayed atorvastatin promotes spinal cord injury recovery in mice"
+      - title: "Delayed atorvastatin promotes spinal cord injury recovery in mice"
         authors: "Samuel C Buchl, Ha Neui Kim, Benjamin Hur, Whitney L Simon, Monica R Langley, Jaeyun Sung, and Isobel A Scarisbrick"
         conference: "Neurotherapeutics"
 
-	  - title: "Gut Microbiome Wellness Index 2 enhances health status prediction from gut microbiome taxonomic profiles"
+      - title: "Gut Microbiome Wellness Index 2 enhances health status prediction from gut microbiome taxonomic profiles"
         authors: "Daniel Chang, Vinod K Gupta, Benjamin Hur, Sergio Cobo-López, Kevin Y Cunningham, Nam Soo Han, Insuk Lee, Vanessa L Kronzer, Levi M Teigen, Lioudmila V Karnatovskaia, Erin E Longbrake, John M Davis III, Heidi Nelson, and Jaeyun Sung"
         conference: "Nature Communication"
 
-	  - title: "Plasma proteome profiling in giant cell arteritis"
+      - title: "Plasma proteome profiling in giant cell arteritis"
         authors: "Kevin Y Cunningham*, Benjamin Hur*, Vinod K Gupta, Matthew J Koster, Cornelia M Weyand, David Cuthbertson, Nader A Khalidi, Curry L Koening, Carol A Langford, Carol A McAlear, Paul A Monach, Larry W Moreland, Christian Pagnoux, Rennie L Rhee, Philip Seo, Peter A Merkel, Kenneth J Warrington, and Jaeyun Sun"
         conference: "Annals of the Rheumatic Diseases"
 
-	  - title: "Microglial P2Y6 calcium signaling promotes phagocytosis and shapes neuroimmune responses in epileptogenesis"
+      - title: "Microglial P2Y6 calcium signaling promotes phagocytosis and shapes neuroimmune responses in epileptogenesis"
         authors: "Anthony D Umpierre, Bohan Li, Katayoun Ayasoufi, Shunyi Zhao, Manling Xie, Grace Thyen, Benjamin Hur, Jiaying Zheng, Yue Liang, Zhaofa Wu, Xinzhu Yu, Jaeyun Sung, Aaron J Johnson, Yulong Li, and Long-Jun Wu"
         conference: "Neuron"
 
-	  - title: "Patients with ACPA-positive and ACPA-negative rheumatoid arthritis show different serological autoantibody repertoires and autoantibody associations with disease activit"
+      - title: "Patients with ACPA-positive and ACPA-negative rheumatoid arthritis show different serological autoantibody repertoires and autoantibody associations with disease activit"
         authors: "Kevin Y Cunningham, Benjamin Hur, Vinod K Gupta, Courtney A Arment, Kerry A Wright, Thomas G Mason, Lynne S Peterson, Delamo I Bekele, Daniel E Schaffer, Marissa L Bailey, Kara E Delger, Cynthia S Crowson, Elena Myasoedova, Hu Zeng, Moses Rodriguez, Cornelia M Weyand, John M Davis III, and Jaeyun Sung"
         conference: "Scientific Reports"
 
-	  - title: "GMWI-webtool: a user-friendly browser application for assessing health through metagenomic gut microbiome profiling"
+      - title: "GMWI-webtool: a user-friendly browser application for assessing health through metagenomic gut microbiome profiling"
         authors: "Daniel Chang, Vinod K Gupta, Benjamin Hur, Kevin Y Cunningham, and Jaeyun Sung"
         conference: "Bioinformatics"
 
