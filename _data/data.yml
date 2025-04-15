@@ -30,10 +30,6 @@ career-profile:
     summary: |
     I am a bioinformatics/research scientist focused on transforming large-scale omics and clinical data into actionable insights for autoimmune diseases, including rheumatoid arthritis and vasculitis. I have hands-on experience analyzing and integrating diverse data types—including next generation sequencing (genomics, trasncriptomics), mass spectometry (proteomics, metabolomics), CyTOF (single cell immune profiling), and longitudinal clinical data—tailored to complex immunological diseases. My expertise includes network-based modeling, biomarker discovery, and the development of scalable in silico tools to support precision diagnostics. My recent work involves (1) developing blood-based disease activity metrics in RA, (2) uncover potential diagnostic biomarkers for ACPA-negative RA, and (3) developing protein biomarkers for treatment response to methotrexate in RA.
 
-    title: Research fellow at Mayo Clinic
-    summary: |
-    none
-
 education:
     - degree: Ph.D. in Bioinformatics
       university: Interdisciplinary in Bioinformatics, Seoul National University, Republic of Korea
