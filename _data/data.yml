@@ -30,6 +30,9 @@ career-profile:
     summary: |
       I am a bioinformatics/research scientist focused on transforming large-scale omics and clinical data into actionable insights for autoimmune diseases, including rheumatoid arthritis and vasculitis. I have hands-on experience analyzing and integrating diverse data types—including next generation sequencing (genomics, trasncriptomics), mass spectometry (proteomics, metabolomics), CyTOF (single cell immune profiling), and longitudinal clinical data—tailored to complex immunological diseases. My expertise includes network-based modeling, biomarker discovery, and the development of scalable in silico tools to support precision diagnostics. My recent work involves (1) developing blood-based disease activity metrics in RA, (2) uncover potential diagnostic biomarkers for ACPA-negative RA, and (3) developing protein biomarkers for treatment response to methotrexate in RA.
 
+    title: Research fellow at Mayo Clinic
+    summary: |
+
 education:
     - degree: Ph.D. in Bioinformatics
       university: Interdisciplinary in Bioinformatics, Seoul National University, Republic of Korea
@@ -42,9 +45,34 @@ education:
       details: |
 
 experiences:
+
+   - role: Monitoring Autoimmune Diseases: Understanding Rheumatoid Arthritis and Giant Cell Arteritis through Biomolecular Insights
+      time: 2025
+      company: Invited seminar: Overseas expert (Myongji University)
+      details: | 
+      Seoul, Korea
+
+   - role: Monitoring Autoimmune Diseases: Understanding Rheumatoid Arthritis and Giant Cell Arteritis through Biomolecular Insights
+      time: 2025
+      company: Workshop at Bio & Health Informatics Lab
+      details: | 
+      Seoul, Korea
+ 
+   - role: Analysis approach to multi-omics data
+      time: 2023
+      company: Hot Interesting Topics, Theoretical and Engineering Division, Center for Individualized Medicine Microbiomics Program
+      details: | 
+      Rochester, MN
+ 
+   - role: Deep multi-omic phenotyping of blood for computational biomarker discovery in rheumatoid arthritis
+      time: 2022
+      company: American College of Rheumatology Convergence
+      details: | 
+      Philadelphia, PA
+
     - role: Integrative Multi-omic Phenotyping in Blood Identifies Molecular Signatures and Candidate Biomarkers of ACPA-negative Rheumatoid Arthritis
       time: 2022
-      company: "Biomedical Engineering Society 2022: Oral presentation [scheduled]"
+      company: "Biomedical Engineering Society 2022: Oral presentation"
       details: | 
        OCTOBER 12-15, SAN ANTONIO, TX
       
@@ -83,6 +111,34 @@ publications:
     intro: |
 
     papers:
+	  - title: "Integrative multi-omics phenotyping in blood reveals biomolecular signatures predictive of ACPA-negative rheumatoid arthritis"
+        authors: "Benjamin Hur, Vinod K Gupta, Minsik Oh, Hu Zeng, Cynthia S Crowson, Kenneth J Warrington, Elena Myasoedova, Vanessa L Kronzer, John M Davis III, and Jaeyun Sung"
+        conference: "RMD open, In Revision"
+
+	  - title: "Delayed atorvastatin promotes spinal cord injury recovery in mice"
+        authors: "Samuel C Buchl, Ha Neui Kim, Benjamin Hur, Whitney L Simon, Monica R Langley, Jaeyun Sung, and Isobel A Scarisbrick"
+        conference: "Neurotherapeutics"
+
+	  - title: "Gut Microbiome Wellness Index 2 enhances health status prediction from gut microbiome taxonomic profiles"
+        authors: "Daniel Chang, Vinod K Gupta, Benjamin Hur, Sergio Cobo-López, Kevin Y Cunningham, Nam Soo Han, Insuk Lee, Vanessa L Kronzer, Levi M Teigen, Lioudmila V Karnatovskaia, Erin E Longbrake, John M Davis III, Heidi Nelson, and Jaeyun Sung"
+        conference: "Nature Communication"
+
+	  - title: "Plasma proteome profiling in giant cell arteritis"
+        authors: "Kevin Y Cunningham*, Benjamin Hur*, Vinod K Gupta, Matthew J Koster, Cornelia M Weyand, David Cuthbertson, Nader A Khalidi, Curry L Koening, Carol A Langford, Carol A McAlear, Paul A Monach, Larry W Moreland, Christian Pagnoux, Rennie L Rhee, Philip Seo, Peter A Merkel, Kenneth J Warrington, and Jaeyun Sun"
+        conference: "Annals of the Rheumatic Diseases"
+
+	  - title: "Microglial P2Y6 calcium signaling promotes phagocytosis and shapes neuroimmune responses in epileptogenesis"
+        authors: "Anthony D Umpierre, Bohan Li, Katayoun Ayasoufi, Shunyi Zhao, Manling Xie, Grace Thyen, Benjamin Hur, Jiaying Zheng, Yue Liang, Zhaofa Wu, Xinzhu Yu, Jaeyun Sung, Aaron J Johnson, Yulong Li, and Long-Jun Wu"
+        conference: "Neuron"
+
+	  - title: "Patients with ACPA-positive and ACPA-negative rheumatoid arthritis show different serological autoantibody repertoires and autoantibody associations with disease activit"
+        authors: "Kevin Y Cunningham, Benjamin Hur, Vinod K Gupta, Courtney A Arment, Kerry A Wright, Thomas G Mason, Lynne S Peterson, Delamo I Bekele, Daniel E Schaffer, Marissa L Bailey, Kara E Delger, Cynthia S Crowson, Elena Myasoedova, Hu Zeng, Moses Rodriguez, Cornelia M Weyand, John M Davis III, and Jaeyun Sung"
+        conference: "Scientific Reports"
+
+	  - title: "GMWI-webtool: a user-friendly browser application for assessing health through metagenomic gut microbiome profiling"
+        authors: "Daniel Chang, Vinod K Gupta, Benjamin Hur, Kevin Y Cunningham, and Jaeyun Sung"
+        conference: "Bioinformatics"
+
       - title: "Global Transcriptomic Profiling Identifies Differential Gene Expression Signatures between Inflammatory and Non‐inflammatory Aortic Aneurysms"
         authors: "Benjamin Hur, Matthew J Koster, Jin Sung Jang, Cornelia M Weyand, Kenneth J Warrington, Jaeyun Sung"
         conference: "Arthritis & Rheumatology"
